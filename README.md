@@ -1,4 +1,4 @@
-# Newton Optimation Method
+# Newton Optimization Method
 
 * Implements Newton Method for finding extremum point and optimal value of a function.
 
