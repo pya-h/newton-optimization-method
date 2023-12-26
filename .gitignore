@@ -1,2 +1,6 @@
 env
 __pycache__
+book.pdf
+n2.py
+newmeth.py
+newton_exact.py
